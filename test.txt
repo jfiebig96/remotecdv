@@ -2,3 +2,4 @@ pierweszy wiersz
 drugi wiersz
 trzeci wiersz
 czwarty wiersz
+test
